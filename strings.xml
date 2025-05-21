@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Yemek Sipariş</string>
+    <string name="sepet">Sepet</string>
+    <string name="sepete_ekle">Sepete Ekle</string>
+    <string name="toplam_tutar">Toplam: %s ₺</string>
+</resources>
